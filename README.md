@@ -1,7 +1,7 @@
 # Mini-Microservices-App
 Microservices with Node JS and React
 
-##Common kubectl commands
+## Common kubectl commands
 
 Print out information about all of the running pods:
 ```
